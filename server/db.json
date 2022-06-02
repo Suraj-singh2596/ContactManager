@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "adb123",
+      "name": "Suraj Singh",
+      "photo": "https://www.w3schools.com/howto/img_avatar.png",
+      "mobile": "8076629495",
+      "email": "suraj.gokulsingh2596@gmail.com",
+      "title": "Software Engineer",
+      "company": "Praesidio Doctorplus Pvt. Ltd",
+      "groupid": "1"
+    },
+    {
+      "id": "adb124",
+      "name": "Sangeeta Singh",
+      "photo": "https://www.w3schools.com/howto/img_avatar2.png",
+      "mobile": "9900990002",
+      "email": "sangeeta@nomail.com",
+      "title": "Tiktoker",
+      "company": "TikTok",
+      "groupid": "1"
+    },
+    {
+      "id": "adb125",
+      "name": "Gokul Singh",
+      "photo": "https://www.w3schools.com/howto/img_avatar.png",
+      "mobile": "9900990004",
+      "email": "Gokul@nomail.com",
+      "title": "Social Worker",
+      "company": "HPL Limited",
+      "groupid": "4"
+    },
+    {
+      "id": "adb126",
+      "name": "Kamla Singh",
+      "photo": "https://www.w3schools.com/howto/img_avatar2.png",
+      "mobile": "9900990007",
+      "email": "kamla@nomail.com",
+      "title": "House Wife",
+      "company": "House",
+      "groupid": "3"
+    },
+    {
+      "name": "suhana",
+      "company": "HCL Technology",
+      "email": "suahana@nomail.com",
+      "title": "Engineer",
+      "mobile": "9098765432",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/001/993/889/small/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
+      "groupid": "3",
+      "id": "9HAVake"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Collegue"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
